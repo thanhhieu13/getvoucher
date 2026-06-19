@@ -1,0 +1,17 @@
+{
+  "name": "giangon-telegram-actions",
+  "version": "1.0.0",
+  "description": "Auto crawl GiaNgon vouchers to Telegram",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.mjs",
+    "once": "node src/index.mjs --once",
+    "check": "node --check src/index.mjs"
+  },
+  "dependencies": {
+    "playwright": "^1.44.0"
+  },
+  "devDependencies": {
+    "dotenv": "^16.4.5"
+  }
+}
