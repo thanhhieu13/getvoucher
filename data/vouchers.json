@@ -35,9 +35,9 @@
     "discount": "22%",
     "maxDiscount": "300k",
     "minimumOrder": "",
-    "usagePercent": 53,
+    "usagePercent": 57,
     "status": "active",
-    "rawText": "GIẢM\n22%\nFACEBOOK\nMETAPAR4JUND22300\nCòn lượt\nGiảm 22% tối đa 300k đơn từ 50k\n53% đã dùng"
+    "rawText": "GIẢM\n22%\nFACEBOOK\nMETAPAR4JUND22300\nCòn lượt\nGiảm 22% tối đa 300k đơn từ 50k\n57% đã dùng"
   },
   {
     "code": "FAEXTERNALJUN",
@@ -45,8 +45,8 @@
     "discount": "22%",
     "maxDiscount": "100k",
     "minimumOrder": "",
-    "usagePercent": 90,
+    "usagePercent": 92,
     "status": "active",
-    "rawText": "GIẢM\n22%\nFACEBOOK\nFAEXTERNALJUN\nCòn lượt\nGiảm 22% tối đa 100k đơn từ 150k\n90% đã dùng"
+    "rawText": "GIẢM\n22%\nFACEBOOK\nFAEXTERNALJUN\nCòn lượt\nGiảm 22% tối đa 100k đơn từ 150k\n92% đã dùng"
   }
 ]
