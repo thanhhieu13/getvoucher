@@ -10,43 +10,33 @@
     "rawText": ""
   },
   {
-    "code": "YOUTUBEJUN222230",
-    "platform": "",
-    "discount": "22%",
-    "maxDiscount": "500k",
-    "minimumOrder": "",
-    "usagePercent": 99,
-    "status": "active",
-    "rawText": "GIẢM\n22%\nYOUTUBE\nYOUTUBEJUN222230\nCòn lượt\nGiảm 22% tối đa 500k đơn từ 150k\n99% đã dùng"
-  },
-  {
-    "code": "YOUTUBEJUN202230",
-    "platform": "",
-    "discount": "20%",
-    "maxDiscount": "",
-    "minimumOrder": "",
-    "usagePercent": 23,
-    "status": "active",
-    "rawText": "GIẢM\n20%\nYOUTUBE\nYOUTUBEJUN202230\nCòn lượt\nGiảm 20% tối đa 3tr đơn từ 2.25tr\n23% đã dùng"
-  },
-  {
-    "code": "METAPAR4JUND22300",
+    "code": "YOUTUBEJUL220105",
     "platform": "",
     "discount": "22%",
     "maxDiscount": "300k",
     "minimumOrder": "",
-    "usagePercent": 59,
+    "usagePercent": 24,
     "status": "active",
-    "rawText": "GIẢM\n22%\nFACEBOOK\nMETAPAR4JUND22300\nCòn lượt\nGiảm 22% tối đa 300k đơn từ 50k\n59% đã dùng"
+    "rawText": "GIẢM\n22%\nYOUTUBE\nYOUTUBEJUL220105\nCòn lượt\nGiảm 22% tối đa 300k đơn từ 150k\n24% đã dùng"
   },
   {
-    "code": "FAEXTERNALJUN",
+    "code": "YOUTUBEJUL200105",
+    "platform": "",
+    "discount": "20%",
+    "maxDiscount": "",
+    "minimumOrder": "",
+    "usagePercent": 10,
+    "status": "active",
+    "rawText": "GIẢM\n20%\nYOUTUBE\nYOUTUBEJUL200105\nCòn lượt\nGiảm 20% tối đa 2.5tr đơn từ 1.5tr\n10% đã dùng"
+  },
+  {
+    "code": "FAEXTERNALJUL",
     "platform": "",
     "discount": "22%",
     "maxDiscount": "100k",
     "minimumOrder": "",
-    "usagePercent": 98,
+    "usagePercent": 40,
     "status": "active",
-    "rawText": "GIẢM\n22%\nFACEBOOK\nFAEXTERNALJUN\nCòn lượt\nGiảm 22% tối đa 100k đơn từ 150k\n98% đã dùng"
+    "rawText": "GIẢM\n22%\nFACEBOOK\nFAEXTERNALJUL\nCòn lượt\nGiảm 22% tối đa 100k đơn từ 150k\n40% đã dùng"
   }
 ]
