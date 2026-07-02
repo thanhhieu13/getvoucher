@@ -25,9 +25,9 @@
     "discount": "20%",
     "maxDiscount": "",
     "minimumOrder": "",
-    "usagePercent": 19,
+    "usagePercent": 20,
     "status": "active",
-    "rawText": "GIẢM\n20%\nYOUTUBE\nYOUTUBEJUL200105\nCòn lượt\nGiảm 20% tối đa 2.5tr đơn từ 1.5tr\n19% đã dùng"
+    "rawText": "GIẢM\n20%\nYOUTUBE\nYOUTUBEJUL200105\nCòn lượt\nGiảm 20% tối đa 2.5tr đơn từ 1.5tr\n20% đã dùng"
   },
   {
     "code": "METAPAR1JULD22300",
@@ -45,8 +45,8 @@
     "discount": "22%",
     "maxDiscount": "100k",
     "minimumOrder": "",
-    "usagePercent": 93,
+    "usagePercent": 98,
     "status": "active",
-    "rawText": "GIẢM\n22%\nFACEBOOK\nFAEXTERNALJUL\nCòn lượt\nGiảm 22% tối đa 100k đơn từ 150k\n93% đã dùng"
+    "rawText": "GIẢM\n22%\nFACEBOOK\nFAEXTERNALJUL\nCòn lượt\nGiảm 22% tối đa 100k đơn từ 150k\n98% đã dùng"
   }
 ]
