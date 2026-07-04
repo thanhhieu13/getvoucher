@@ -10,14 +10,34 @@
     "rawText": ""
   },
   {
+    "code": "YOUTUBECLAIM0507",
+    "platform": "",
+    "discount": "50%",
+    "maxDiscount": "100k",
+    "minimumOrder": "",
+    "usagePercent": 10,
+    "status": "active",
+    "rawText": "GIẢM\n50%\nYOUTUBE\nYOUTUBECLAIM0507\nSắp diễn ra\nGiảm 50% tối đa 100k đơn từ 50k\n10% đã dùng"
+  },
+  {
+    "code": "YOUTUBEJUL5005",
+    "platform": "",
+    "discount": "50%",
+    "maxDiscount": "100k",
+    "minimumOrder": "",
+    "usagePercent": 10,
+    "status": "active",
+    "rawText": "GIẢM\n50%\nYOUTUBE\nYOUTUBEJUL5005\nSắp diễn ra\nGiảm 50% tối đa 100k đơn từ 50k\n10% đã dùng"
+  },
+  {
     "code": "YOUTUBEJUL220105",
     "platform": "",
     "discount": "22%",
     "maxDiscount": "300k",
     "minimumOrder": "",
-    "usagePercent": 50,
+    "usagePercent": 52,
     "status": "active",
-    "rawText": "GIẢM\n22%\nYOUTUBE\nYOUTUBEJUL220105\nCòn lượt\nGiảm 22% tối đa 300k đơn từ 150k\n50% đã dùng"
+    "rawText": "GIẢM\n22%\nYOUTUBE\nYOUTUBEJUL220105\nCòn lượt\nGiảm 22% tối đa 300k đơn từ 150k\n52% đã dùng"
   },
   {
     "code": "YOUTUBEJUL200105",
