@@ -10,44 +10,34 @@
     "rawText": ""
   },
   {
-    "code": "YOUTUBEJUL5005",
-    "platform": "",
-    "discount": "50%",
-    "maxDiscount": "100k",
-    "minimumOrder": "",
-    "usagePercent": 10,
-    "status": "active",
-    "rawText": "GIẢM\n50%\nYOUTUBE\nYOUTUBEJUL5005\nCòn lượt\nGiảm 50% tối đa 100k đơn từ 50k\n10% đã dùng"
-  },
-  {
-    "code": "YOUTUBEJUL220105",
+    "code": "YOUTUBEJUL220612",
     "platform": "",
     "discount": "22%",
     "maxDiscount": "300k",
     "minimumOrder": "",
-    "usagePercent": 60,
+    "usagePercent": 24,
     "status": "active",
-    "rawText": "GIẢM\n22%\nYOUTUBE\nYOUTUBEJUL220105\nCòn lượt\nGiảm 22% tối đa 300k đơn từ 150k\n60% đã dùng"
+    "rawText": "GIẢM\n22%\nYOUTUBE\nYOUTUBEJUL220612\nCòn lượt\nGiảm 22% tối đa 300k đơn từ 150k\n24% đã dùng"
   },
   {
-    "code": "YOUTUBEJUL200105",
+    "code": "YOUTUBEJUL200612",
     "platform": "",
     "discount": "20%",
     "maxDiscount": "",
     "minimumOrder": "",
-    "usagePercent": 22,
+    "usagePercent": 10,
     "status": "active",
-    "rawText": "GIẢM\n20%\nYOUTUBE\nYOUTUBEJUL200105\nCòn lượt\nGiảm 20% tối đa 2.5tr đơn từ 1.5tr\n22% đã dùng"
+    "rawText": "GIẢM\n20%\nYOUTUBE\nYOUTUBEJUL200612\nCòn lượt\nGiảm 20% tối đa 2.5tr đơn từ 1.5tr\n10% đã dùng"
   },
   {
-    "code": "METAPAR1JULD22300",
+    "code": "METAPAR2JULD22300",
     "platform": "",
     "discount": "22%",
     "maxDiscount": "300k",
     "minimumOrder": "",
-    "usagePercent": 26,
+    "usagePercent": 10,
     "status": "active",
-    "rawText": "GIẢM\n22%\nFACEBOOK\nMETAPAR1JULD22300\nCòn lượt\nGiảm 22% tối đa 300k đơn từ 50k\n26% đã dùng"
+    "rawText": "GIẢM\n22%\nFACEBOOK\nMETAPAR2JULD22300\nCòn lượt\nGiảm 22% tối đa 300k đơn từ 50k\n10% đã dùng"
   },
   {
     "code": "FAEXTERNALJUL",
@@ -55,8 +45,8 @@
     "discount": "22%",
     "maxDiscount": "100k",
     "minimumOrder": "",
-    "usagePercent": 99,
+    "usagePercent": 92,
     "status": "active",
-    "rawText": "GIẢM\n22%\nFACEBOOK\nFAEXTERNALJUL\nCòn lượt\nGiảm 22% tối đa 100k đơn từ 150k\n99% đã dùng"
+    "rawText": "GIẢM\n22%\nFACEBOOK\nFAEXTERNALJUL\nCòn lượt\nGiảm 22% tối đa 100k đơn từ 150k\n92% đã dùng"
   }
 ]
