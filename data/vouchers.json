@@ -20,24 +20,14 @@
     "rawText": "GIẢM\n50%\nYOUTUBE\nYOUTUBECLAIM2607\nCòn lượt\nGiảm 50% tối đa 100k đơn từ 50k\n20% đã dùng"
   },
   {
-    "code": "YOUTUBEJUL222431",
-    "platform": "",
-    "discount": "22%",
-    "maxDiscount": "300k",
-    "minimumOrder": "",
-    "usagePercent": 94,
-    "status": "active",
-    "rawText": "GIẢM\n22%\nYOUTUBE\nYOUTUBEJUL222431\nCòn lượt\nGiảm 22% tối đa 300k đơn từ 150k\n94% đã dùng"
-  },
-  {
     "code": "YOUTUBEJUL202431",
     "platform": "",
     "discount": "20%",
     "maxDiscount": "",
     "minimumOrder": "",
-    "usagePercent": 58,
+    "usagePercent": 60,
     "status": "active",
-    "rawText": "GIẢM\n20%\nYOUTUBE\nYOUTUBEJUL202431\nCòn lượt\nGiảm 20% tối đa 3tr đơn từ 1.5tr\n58% đã dùng"
+    "rawText": "GIẢM\n20%\nYOUTUBE\nYOUTUBEJUL202431\nCòn lượt\nGiảm 20% tối đa 3tr đơn từ 1.5tr\n60% đã dùng"
   },
   {
     "code": "METAPARJUL222631",
@@ -45,9 +35,9 @@
     "discount": "22%",
     "maxDiscount": "300k",
     "minimumOrder": "",
-    "usagePercent": 18,
+    "usagePercent": 24,
     "status": "active",
-    "rawText": "GIẢM\n22%\nFACEBOOK\nMETAPARJUL222631\nCòn lượt\nGiảm 22% tối đa 300k đơn từ 50k\n18% đã dùng"
+    "rawText": "GIẢM\n22%\nFACEBOOK\nMETAPARJUL222631\nCòn lượt\nGiảm 22% tối đa 300k đơn từ 50k\n24% đã dùng"
   },
   {
     "code": "METAPARIGDJUL2231",
@@ -55,8 +45,8 @@
     "discount": "22%",
     "maxDiscount": "300k",
     "minimumOrder": "",
-    "usagePercent": 29,
+    "usagePercent": 64,
     "status": "active",
-    "rawText": "GIẢM\n22%\nINSTAGRAM\nMETAPARIGDJUL2231\nCòn lượt\nGiảm 22% tối đa 300k đơn từ 50k\n29% đã dùng"
+    "rawText": "GIẢM\n22%\nINSTAGRAM\nMETAPARIGDJUL2231\nCòn lượt\nGiảm 22% tối đa 300k đơn từ 50k\n64% đã dùng"
   }
 ]
