@@ -30,6 +30,16 @@
     "rawText": "GIẢM\n20%\nYOUTUBE\nYOUTUBEAUG200109\nCòn lượt\nGiảm 20% tối đa 3tr đơn từ 1.5tr\n28% đã dùng"
   },
   {
+    "code": "METAPARAUG220509",
+    "platform": "",
+    "discount": "22%",
+    "maxDiscount": "300k",
+    "minimumOrder": "",
+    "usagePercent": 99,
+    "status": "active",
+    "rawText": "GIẢM\n22%\nFACEBOOK\nMETAPARAUG220509\nCòn lượt\nGiảm 22% tối đa 300k đơn từ 50k\n99% đã dùng"
+  },
+  {
     "code": "METAPARIGDAUG2509",
     "platform": "",
     "discount": "25%",
