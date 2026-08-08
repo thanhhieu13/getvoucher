@@ -1,11 +1,13 @@
 {
   "telegramMessageId": 54,
-  "lastHash": "e6ec1e4eb72c6f17ca623279a53ed87370db80d929ac76055ec9696e188e1112",
+  "lastHash": "e78984b584fcfdcc2b9d63380b1d2a42bcd4866bd57ef7bbde41d03f9fd2ab89",
   "lastCodes": [
     "METAPAR2IGNEWD22300",
+    "YOUTUBEAUG220109",
     "YOUTUBEAUG200109",
     "METAPARAUG220509",
-    "METAPARIGDAUG2509"
+    "METAPARIGDAUG2509",
+    "METAPARIGDAUG2209"
   ],
-  "updatedAt": "2026-08-07T23:19:31.740Z"
+  "updatedAt": "2026-08-08T02:45:19.219Z"
 }
