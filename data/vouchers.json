@@ -25,9 +25,29 @@
     "discount": "20%",
     "maxDiscount": "",
     "minimumOrder": "",
-    "usagePercent": 34,
+    "usagePercent": 35,
     "status": "active",
-    "rawText": "GIẢM\n20%\nYOUTUBE\nYOUTUBEAUG200109\nCòn lượt\nGiảm 20% tối đa 3tr đơn từ 1.5tr\n34% đã dùng"
+    "rawText": "GIẢM\n20%\nYOUTUBE\nYOUTUBEAUG200109\nCòn lượt\nGiảm 20% tối đa 3tr đơn từ 1.5tr\n35% đã dùng"
+  },
+  {
+    "code": "YOUTUBEAUG201016",
+    "platform": "",
+    "discount": "20%",
+    "maxDiscount": "100k",
+    "minimumOrder": "",
+    "usagePercent": 10,
+    "status": "active",
+    "rawText": "GIẢM\n20%\nYOUTUBE\nYOUTUBEAUG201016\nSắp diễn ra\nGiảm 20% tối đa 100k đơn từ 150k\n10% đã dùng"
+  },
+  {
+    "code": "YOUTUBEAUG181016",
+    "platform": "",
+    "discount": "18%",
+    "maxDiscount": "",
+    "minimumOrder": "",
+    "usagePercent": 10,
+    "status": "active",
+    "rawText": "GIẢM\n18%\nYOUTUBE\nYOUTUBEAUG181016\nSắp diễn ra\nGiảm 18% tối đa 2tr đơn từ 500k\n10% đã dùng"
   },
   {
     "code": "METAPARAUG220509",
@@ -40,14 +60,14 @@
     "rawText": "GIẢM\n22%\nFACEBOOK\nMETAPARAUG220509\nCòn lượt\nGiảm 22% tối đa 300k đơn từ 50k\n57% đã dùng"
   },
   {
-    "code": "METAPARIGDAUG2509",
+    "code": "METAPARAUG221016",
     "platform": "",
-    "discount": "25%",
-    "maxDiscount": "500k",
+    "discount": "22%",
+    "maxDiscount": "300k",
     "minimumOrder": "",
     "usagePercent": 10,
     "status": "active",
-    "rawText": "GIẢM\n25%\nINSTAGRAM\nMETAPARIGDAUG2509\nCòn lượt\nGiảm 25% tối đa 500k đơn từ 50k\n10% đã dùng"
+    "rawText": "GIẢM\n22%\nFACEBOOK\nMETAPARAUG221016\nSắp diễn ra\nGiảm 22% tối đa 300k đơn từ 50k\n10% đã dùng"
   },
   {
     "code": "METAPARIGDAUG2209",
@@ -58,5 +78,15 @@
     "usagePercent": 99,
     "status": "active",
     "rawText": "GIẢM\n22%\nINSTAGRAM\nMETAPARIGDAUG2209\nCòn lượt\nGiảm 22% tối đa 300k đơn từ 50k\n99% đã dùng"
+  },
+  {
+    "code": "METAPARIGDAUG2216",
+    "platform": "",
+    "discount": "22%",
+    "maxDiscount": "300k",
+    "minimumOrder": "",
+    "usagePercent": 10,
+    "status": "active",
+    "rawText": "GIẢM\n22%\nINSTAGRAM\nMETAPARIGDAUG2216\nSắp diễn ra\nGiảm 22% tối đa 300k đơn từ 50k\n10% đã dùng"
   }
 ]
