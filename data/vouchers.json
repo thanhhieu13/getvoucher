@@ -15,9 +15,9 @@
     "discount": "20%",
     "maxDiscount": "100k",
     "minimumOrder": "",
-    "usagePercent": 15,
+    "usagePercent": 26,
     "status": "active",
-    "rawText": "GIẢM\n20%\nYOUTUBE\nYOUTUBEAUG201016\nCòn lượt\nGiảm 20% tối đa 100k đơn từ 150k\n15% đã dùng"
+    "rawText": "GIẢM\n20%\nYOUTUBE\nYOUTUBEAUG201016\nCòn lượt\nGiảm 20% tối đa 100k đơn từ 150k\n26% đã dùng"
   },
   {
     "code": "YOUTUBEAUG181016",
@@ -25,19 +25,9 @@
     "discount": "18%",
     "maxDiscount": "",
     "minimumOrder": "",
-    "usagePercent": 10,
+    "usagePercent": 11,
     "status": "active",
-    "rawText": "GIẢM\n18%\nYOUTUBE\nYOUTUBEAUG181016\nCòn lượt\nGiảm 18% tối đa 2tr đơn từ 500k\n10% đã dùng"
-  },
-  {
-    "code": "METAPARAUG221016",
-    "platform": "",
-    "discount": "22%",
-    "maxDiscount": "300k",
-    "minimumOrder": "",
-    "usagePercent": 60,
-    "status": "active",
-    "rawText": "GIẢM\n22%\nFACEBOOK\nMETAPARAUG221016\nCòn lượt\nGiảm 22% tối đa 300k đơn từ 50k\n60% đã dùng"
+    "rawText": "GIẢM\n18%\nYOUTUBE\nYOUTUBEAUG181016\nCòn lượt\nGiảm 18% tối đa 2tr đơn từ 500k\n11% đã dùng"
   },
   {
     "code": "METAPARIGDAUG2216",
@@ -45,8 +35,8 @@
     "discount": "22%",
     "maxDiscount": "300k",
     "minimumOrder": "",
-    "usagePercent": 21,
+    "usagePercent": 46,
     "status": "active",
-    "rawText": "GIẢM\n22%\nINSTAGRAM\nMETAPARIGDAUG2216\nCòn lượt\nGiảm 22% tối đa 300k đơn từ 50k\n21% đã dùng"
+    "rawText": "GIẢM\n22%\nINSTAGRAM\nMETAPARIGDAUG2216\nCòn lượt\nGiảm 22% tối đa 300k đơn từ 50k\n46% đã dùng"
   }
 ]
