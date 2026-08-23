@@ -10,33 +10,53 @@
     "rawText": ""
   },
   {
-    "code": "YOUTUBEAUG201723",
+    "code": "YOUTUBEAUG202431",
     "platform": "",
     "discount": "20%",
     "maxDiscount": "100k",
     "minimumOrder": "",
-    "usagePercent": 97,
+    "usagePercent": 10,
     "status": "active",
-    "rawText": "GIẢM\n20%\nYOUTUBE\nYOUTUBEAUG201723\nCòn lượt\nGiảm 20% tối đa 100k đơn từ 150k\n97% đã dùng"
+    "rawText": "GIẢM\n20%\nYOUTUBE\nYOUTUBEAUG202431\nCòn lượt\nGiảm 20% tối đa 100k đơn từ 150k\n10% đã dùng"
   },
   {
-    "code": "YOUTUBEAUG181723",
+    "code": "YOUTUBEAUG182431",
     "platform": "",
     "discount": "18%",
     "maxDiscount": "",
     "minimumOrder": "",
-    "usagePercent": 76,
+    "usagePercent": 10,
     "status": "active",
-    "rawText": "GIẢM\n18%\nYOUTUBE\nYOUTUBEAUG181723\nCòn lượt\nGiảm 18% tối đa 2tr đơn từ 500k\n76% đã dùng"
+    "rawText": "GIẢM\n18%\nYOUTUBE\nYOUTUBEAUG182431\nCòn lượt\nGiảm 18% tối đa 2tr đơn từ 500k\n10% đã dùng"
   },
   {
-    "code": "METAPARIGDAUG2223",
+    "code": "METAPARAUG222431",
     "platform": "",
     "discount": "22%",
     "maxDiscount": "300k",
     "minimumOrder": "",
-    "usagePercent": 99,
+    "usagePercent": 10,
     "status": "active",
-    "rawText": "GIẢM\n22%\nINSTAGRAM\nMETAPARIGDAUG2223\nCòn lượt\nGiảm 22% tối đa 300k đơn từ 50k\n99% đã dùng"
+    "rawText": "GIẢM\n22%\nFACEBOOK\nMETAPARAUG222431\nCòn lượt\nGiảm 22% tối đa 300k đơn từ 50k\n10% đã dùng"
+  },
+  {
+    "code": "METAPARIGDAUG2231",
+    "platform": "",
+    "discount": "22%",
+    "maxDiscount": "300k",
+    "minimumOrder": "",
+    "usagePercent": 10,
+    "status": "active",
+    "rawText": "GIẢM\n22%\nINSTAGRAM\nMETAPARIGDAUG2231\nCòn lượt\nGiảm 22% tối đa 300k đơn từ 50k\n10% đã dùng"
+  },
+  {
+    "code": "ST1ZALOVID08",
+    "platform": "",
+    "discount": "25%",
+    "maxDiscount": "50k",
+    "minimumOrder": "",
+    "usagePercent": 94,
+    "status": "active",
+    "rawText": "GIẢM\n25%\nZALO\nST1ZALOVID08\nCòn lượt\nGiảm 25% tối đa 50k đơn từ 200k\n94% đã dùng"
   }
 ]
