@@ -10,34 +10,14 @@
     "rawText": ""
   },
   {
-    "code": "YOUTUBESEP201420",
-    "platform": "",
-    "discount": "22%",
-    "maxDiscount": "100k",
-    "minimumOrder": "",
-    "usagePercent": 99,
-    "status": "active",
-    "rawText": "GIẢM\n22%\nYOUTUBE\nYOUTUBESEP201420\nCòn lượt\nGiảm 22% tối đa 100k đơn từ 150k\n99% đã dùng"
-  },
-  {
-    "code": "YOUTUBESEP181420",
-    "platform": "",
-    "discount": "20%",
-    "maxDiscount": "",
-    "minimumOrder": "",
-    "usagePercent": 79,
-    "status": "active",
-    "rawText": "GIẢM\n20%\nYOUTUBE\nYOUTUBESEP181420\nCòn lượt\nGiảm 20% tối đa 2tr đơn từ 500k\n79% đã dùng"
-  },
-  {
     "code": "YOUTUBESEP222124",
     "platform": "",
     "discount": "22%",
     "maxDiscount": "100k",
     "minimumOrder": "",
-    "usagePercent": 10,
+    "usagePercent": 31,
     "status": "active",
-    "rawText": "GIẢM\n22%\nYOUTUBE\nYOUTUBESEP222124\nSắp diễn ra\nGiảm 22% tối đa 100k đơn từ 150k\n10% đã dùng"
+    "rawText": "GIẢM\n22%\nYOUTUBE\nYOUTUBESEP222124\nCòn lượt\nGiảm 22% tối đa 100k đơn từ 150k\n31% đã dùng"
   },
   {
     "code": "YOUTUBESEP202124",
@@ -45,8 +25,8 @@
     "discount": "20%",
     "maxDiscount": "",
     "minimumOrder": "",
-    "usagePercent": 10,
+    "usagePercent": 16,
     "status": "active",
-    "rawText": "GIẢM\n20%\nYOUTUBE\nYOUTUBESEP202124\nSắp diễn ra\nGiảm 20% tối đa 2tr đơn từ 500k\n10% đã dùng"
+    "rawText": "GIẢM\n20%\nYOUTUBE\nYOUTUBESEP202124\nCòn lượt\nGiảm 20% tối đa 2tr đơn từ 500k\n16% đã dùng"
   }
 ]
