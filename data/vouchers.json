@@ -10,33 +10,23 @@
     "rawText": ""
   },
   {
-    "code": "YOUTUBECLAIM0410",
-    "platform": "",
-    "discount": "50%",
-    "maxDiscount": "100k",
-    "minimumOrder": "",
-    "usagePercent": 10,
-    "status": "active",
-    "rawText": "GIẢM\n50%\nYOUTUBE\nYOUTUBECLAIM0410\nCòn lượt\nGiảm 50% tối đa 100k đơn từ 50k\n10% đã dùng"
-  },
-  {
-    "code": "YOUTUBEOCT220104",
+    "code": "YOUTUBEOCT220511",
     "platform": "",
     "discount": "22%",
     "maxDiscount": "100k",
     "minimumOrder": "",
-    "usagePercent": 99,
+    "usagePercent": 83,
     "status": "active",
-    "rawText": "GIẢM\n22%\nYOUTUBE\nYOUTUBEOCT220104\nCòn lượt\nGiảm 22% tối đa 100k đơn từ 150k\n99% đã dùng"
+    "rawText": "GIẢM\n22%\nYOUTUBE\nYOUTUBEOCT220511\nCòn lượt\nGiảm 22% tối đa 100k đơn từ 150k\n83% đã dùng"
   },
   {
-    "code": "YOUTUBEOCT200104",
+    "code": "YOUTUBEOCT200511",
     "platform": "",
     "discount": "20%",
     "maxDiscount": "",
     "minimumOrder": "",
-    "usagePercent": 98,
+    "usagePercent": 44,
     "status": "active",
-    "rawText": "GIẢM\n20%\nYOUTUBE\nYOUTUBEOCT200104\nCòn lượt\nGiảm 20% tối đa 2tr đơn từ 500k\n98% đã dùng"
+    "rawText": "GIẢM\n20%\nYOUTUBE\nYOUTUBEOCT200511\nCòn lượt\nGiảm 20% tối đa 2tr đơn từ 500k\n44% đã dùng"
   }
 ]
