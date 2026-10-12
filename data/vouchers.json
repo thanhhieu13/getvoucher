@@ -8,25 +8,5 @@
     "usagePercent": 64,
     "status": "active",
     "rawText": ""
-  },
-  {
-    "code": "YOUTUBEOCT221218",
-    "platform": "",
-    "discount": "22%",
-    "maxDiscount": "100k",
-    "minimumOrder": "",
-    "usagePercent": 74,
-    "status": "active",
-    "rawText": "GIẢM\n22%\nYOUTUBE\nYOUTUBEOCT221218\nCòn lượt\nGiảm 22% tối đa 100k đơn từ 150k\n74% đã dùng"
-  },
-  {
-    "code": "YOUTUBEOCT201218",
-    "platform": "",
-    "discount": "20%",
-    "maxDiscount": "",
-    "minimumOrder": "",
-    "usagePercent": 50,
-    "status": "active",
-    "rawText": "GIẢM\n20%\nYOUTUBE\nYOUTUBEOCT201218\nCòn lượt\nGiảm 20% tối đa 2tr đơn từ 500k\n50% đã dùng"
   }
 ]
