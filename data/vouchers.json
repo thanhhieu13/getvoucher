@@ -10,13 +10,33 @@
     "rawText": ""
   },
   {
+    "code": "YOUTUBEOCT221925",
+    "platform": "",
+    "discount": "22%",
+    "maxDiscount": "100k",
+    "minimumOrder": "",
+    "usagePercent": 85,
+    "status": "active",
+    "rawText": "GIẢM\n22%\nYOUTUBE\nYOUTUBEOCT221925\nCòn lượt\nGiảm 22% tối đa 100k đơn từ 150k\n85% đã dùng"
+  },
+  {
     "code": "YOUTUBEOCT201925",
     "platform": "",
     "discount": "20%",
     "maxDiscount": "",
     "minimumOrder": "",
-    "usagePercent": 96,
+    "usagePercent": 91,
     "status": "active",
-    "rawText": "GIẢM\n20%\nYOUTUBE\nYOUTUBEOCT201925\nCòn lượt\nGiảm 20% tối đa 2tr đơn từ 500k\n96% đã dùng"
+    "rawText": "GIẢM\n20%\nYOUTUBE\nYOUTUBEOCT201925\nCòn lượt\nGiảm 20% tối đa 2tr đơn từ 500k\n91% đã dùng"
+  },
+  {
+    "code": "METAPARIGDOCT2225",
+    "platform": "",
+    "discount": "22%",
+    "maxDiscount": "300k",
+    "minimumOrder": "",
+    "usagePercent": 95,
+    "status": "active",
+    "rawText": "GIẢM\n22%\nINSTAGRAM\nMETAPARIGDOCT2225\nCòn lượt\nGiảm 22% tối đa 300k đơn từ 50k\n95% đã dùng"
   }
 ]
